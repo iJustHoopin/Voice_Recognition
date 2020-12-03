@@ -1,1 +1,1 @@
-### Light weight Voice Recognition system
+### A light weight Voice Recognition system
